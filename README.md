@@ -1,6 +1,6 @@
 # waterfox-no-sse-4.2-popcnt
 <p align="left">
-    <img src="https://raw.githubusercontent.com/lixkote/waterfox-no-sse-4.2-popcnt/refs/heads/main/trollcat.png">
+    <img src="https://raw.githubusercontent.com/lixkote/waterfox-legacy-patcher/refs/heads/main/logo2.png">
 </p>
 
 Now also patches waterfox/firefox to add windows 7/8.1 support with native aero titlebar !
