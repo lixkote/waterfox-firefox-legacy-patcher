@@ -1,4 +1,4 @@
-# waterfox-no-sse-4.2-popcnt
+# Waterfox/Firefox Legacy Patcher
 <p align="left">
     <img src="https://raw.githubusercontent.com/lixkote/waterfox-legacy-patcher/refs/heads/main/logo2.png">
 </p>
