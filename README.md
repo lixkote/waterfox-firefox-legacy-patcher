@@ -2,6 +2,9 @@
 <p align="left">
     <img src="https://raw.githubusercontent.com/lixkote/waterfox-no-sse-4.2-popcnt/refs/heads/main/trollcat.png">
 </p>
+
+Now also patches waterfox/firefox to add windows 7/8.1 support with native aero titlebar !
+
 Patches waterfox binaries in a folder to patch and remove SSE 4.2 requirement (waterfox on core 2 duo, yay)
 Needs SSE4.1 tho
 
